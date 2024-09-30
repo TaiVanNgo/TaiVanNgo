@@ -16,7 +16,7 @@ Hello, My name is Ngo Van Tai and I'm a 2nd year student at RMIT, majoring in So
   - Duration: September - 2024
   - Description: This is my group assignment for the course COSC2769 - Full Stack Development. BuZzNet is the social media website application that helps people connect together.
 
-- **[Arduino Project]**
+- **Arduino Project**
   - Duration: May - 2024
   - Description: For our group assignment in the course EEET2505 - Introduction to Embedded Systems, we developed a system that transmits our first name in Morse code messages by detecting button presses. Using an Arduino Uno and various electrical components, we successfully implemented a method for Morse code transmission.
   - Video Demo: [Link](https://www.youtube.com/watch?v=jVnXqrdLF7U)
