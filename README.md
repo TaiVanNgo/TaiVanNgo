@@ -6,7 +6,7 @@ Hello, My name is Ngo Van Tai and I'm a 2nd year student at RMIT, majoring in So
 
 ## 🎯 Projects:
 
-- **[Car Price Prediction](https://github.com/TaiVanNgo/Car-Price-Prediction)
+- **[Car Price Prediction](https://github.com/TaiVanNgo/Car-Price-Prediction)**
   - Duration: Sep - 2024
   - Description: Developed an AI-driven model for predicting car prices using a dataset of 19,000+ cars. Implemented comprehensive data preprocessing, feature engineering, and outlier removal. Tested multiple machine learning algorithms, with XGBoost yielding the best performance, achieving improved predictive accuracy.
 
