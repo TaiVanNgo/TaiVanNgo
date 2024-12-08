@@ -6,13 +6,17 @@ Hello, My name is Ngo Van Tai and I'm a 2nd year student at RMIT, majoring in So
 
 ## 🎯 Projects:
 
+- **[Arduino Remote-Controlled Car](https://github.com/TaiVanNgo/remote-controlled-car)**
+  - Duration: Nov - 2024
+  - Description: Designed and implemented a Bluetooth-controlled car using an Arduino board, the Dabble app, and an L298N motor driver. The car supports directional control (forward, backward, left, and right) through a gamepad interface and includes speed adjustment to correct motor drift. Integrated modular, easy-to-adapt code to enhance user experience and control precision. Demonstrated the project's functionality via a video demo and provided a comprehensive guide with hardware and software resources.
+
 - **[Car Price Prediction](https://github.com/TaiVanNgo/Car-Price-Prediction)**
   - Duration: Sep - 2024
   - Description: Developed an AI-driven model for predicting car prices using a dataset of 19,000+ cars. Implemented comprehensive data preprocessing, feature engineering, and outlier removal. Tested multiple machine learning algorithms, with XGBoost yielding the best performance, achieving improved predictive accuracy.
 
 - **[CTF writeups](https://github.com/TaiVanNgo/CTF-Write-up)**
 
-  - Duration:
+  - Duration: 
   - Description: This my individual project serves as a comprehensive collection of detailed writeups from various Capture the Flag (CTF) competitions I've participated in. It showcases my problem-solving approach and accumulated knowledge in cybersecurity, covering diverse challenges across different domains. This repository is a reflection of my continuous learning and dedication to cybersecurity, designed to both document my progress and share insights with the broader infosec community.
 
 - **[BuZzNet](https://github.com/lluciiiia/COSC2769_Full_Stack_Development_Group_Assignment)**
