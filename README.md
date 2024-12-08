@@ -35,3 +35,5 @@ Hello, My name is Ngo Van Tai and I'm a 2nd year student at RMIT, majoring in So
 ## 🌐 Socials:
 
 - <p><a href="https://www.linkedin.com/in/tai-ngo-587b13248/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="15px" /></a> (https://www.linkedin.com/in/tai-ngo-587b13248/)</p>
+- <p><a href="https://www.youtube.com/@taivan130" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/512px-YouTube_icon_%282013-2017%29.png" width="15px" /></a>(https://www.youtube.com/@taivan130)</p>
+
