@@ -2,10 +2,14 @@
 
 # 💫 About Me:
 
-Hello, My name is Ngo Van Tai and I'm a 2nd year student at RMIT, majoring in Software Engineering. I am 20 years old and passionate about creating innovative software solutions. <br><br>Despite having less experience, I believe that with my young energy, ambition, laboriousness, and dedicated personality, I will try my best to leverage my academic background and job<br>experience.
+Hello, My name is Ngo Van Tai and I'm a 3rd year student at RMIT, majoring in Software Engineering. I am 21 years old and passionate about creating innovative software solutions. <br><br>Despite having less experience, I believe that with my young energy, ambition, laboriousness, and dedicated personality, I will try my best to leverage my academic background and job<br>experience.
 
 ## 🎯 Projects:
 
+- **[NUC140 Clock Watch](https://github.com/TaiVanNgo/remote-controlled-car)**
+  - Duration: Dec - 2024
+  - Description: Built a digital stopwatch system on the NUC140 microcontroller with features like alarm setting, lap time recording, and precise time tracking. The project includes multiple modes (Idle, Alarm Set, Count, Pause, Check), modular FSM-based code, and accurate 1/10-second timing using Timer0 interrupts. A video demo and documentation provide an overview of the design, functionality, and implementation.
+  
 - **[Arduino Remote-Controlled Car](https://github.com/TaiVanNgo/remote-controlled-car)**
   - Duration: Nov - 2024
   - Description: Designed and implemented a Bluetooth-controlled car using an Arduino board, the Dabble app, and an L298N motor driver. The car supports directional control (forward, backward, left, and right) through a gamepad interface and includes speed adjustment to correct motor drift. Integrated modular, easy-to-adapt code to enhance user experience and control precision. Demonstrated the project's functionality via a video demo and provided a comprehensive guide with hardware and software resources.
