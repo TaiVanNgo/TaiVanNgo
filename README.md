@@ -6,7 +6,11 @@ Hello, My name is Ngo Van Tai and I'm a 3rd year student at RMIT, majoring in So
 
 ## 🎯 Projects:
 
-- **[NUC140 Clock Watch](https://github.com/TaiVanNgo/remote-controlled-car)**
+- **[Cashew Carbon Credits Platform](https://github.com/TaiVanNgo/yourSDGSolver)**
+  - Duration: Jan - 2025
+  - Description: As part of our solution for the 24-hour RMIT Hack-A-Venture 2024 hackathon, we developed a blockchain-based platform that empowers cashew farmers to earn income by selling carbon credits. The platform features farmer registration, carbon credit tracking, buyer offset purchases, and secure, verified transactions. Our innovative solution was recognized as the Champion of RMIT Hack-A-Venture 2024 for its impact and sustainability focus.
+
+- **[NUC140 Clock Watch](https://github.com/TaiVanNgo/Clock-Watch-NUC140)**
   - Duration: Dec - 2024
   - Description: Built a digital stopwatch system on the NUC140 microcontroller with features like alarm setting, lap time recording, and precise time tracking. The project includes multiple modes (Idle, Alarm Set, Count, Pause, Check), modular FSM-based code, and accurate 1/10-second timing using Timer0 interrupts. A video demo and documentation provide an overview of the design, functionality, and implementation.
   
