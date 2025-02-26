@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-Hello, My name is Ngo Van Tai and I'm a 3rd year student at RMIT, majoring in Software Engineering. I am 21 years old and passionate about creating innovative software solutions. <br><br>Despite having less experience, I believe that with my young energy, ambition, laboriousness, and dedicated personality, I will try my best to leverage my academic background and job<br>experience.
+Hello, My name is Ngo Van Tai and I'm a 3rd year student at RMIT, majoring in Software Engineering. I am 21 years old and passionate about creating innovative software solutions. <br><br>Despite having less experience, I believe that with my young energy, ambition, laboriousness, and dedicated personality, I will try my best to leverage my academic background and job experience.
 
 ## 🎯 Projects:
 
