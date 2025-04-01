@@ -42,6 +42,6 @@ Hello, My name is Ngo Van Tai and I'm a 3rd year student at RMIT, majoring in So
 
 ## 🌐 Socials:
 
-- <p><a href="https://www.linkedin.com/in/tai-ngo-587b13248/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="15px" /></a> (https://www.linkedin.com/in/tai-ngo-587b13248/)</p>
+- <p><a href="www.linkedin.com/in/taivanngo" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="15px" /></a> (https://www.linkedin.com/in/tai-ngo-587b13248/)</p>
 - <p><a href="https://www.youtube.com/@taivan130" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/512px-YouTube_icon_%282013-2017%29.png" width="15px" /></a>(https://www.youtube.com/@taivan130)</p>
-- <p><a href="https://www.goodreads.com/user/show/150966783-v-n-t-i" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Goodreads_Logo.svg" width="15px" /></a> (https://www.goodreads.com/user/show/150966783-v-n-t-i)</p>
+- <p><a href="https://www.goodreads.com/user/show/150966783-v-n-t-i" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/goodreads.png" width="15px" /></a> (https://www.goodreads.com/user/show/150966783-v-n-t-i)</p>
