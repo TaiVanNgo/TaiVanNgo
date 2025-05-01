@@ -6,6 +6,10 @@ Hello, my name is Ngo Van Tai, and I'm a 3rd year student at RMIT, majoring in S
 
 ## 🎯 Projects:
 
+- **[Life Expectancy Prediction](https://github.com/TaiVanNgo/life-expectancy-prediction-machine-learning)**
+  - Duration: April - 2025
+  - Description: This project uses machine learning to predict life expectancy based on health and socioeconomic factors from global data (2002-2017). After comprehensive data preprocessing, a Random Forest model achieved the best performance (R² of 0.9014), identifying Income Composition, HIV/AIDS rates, and Adult Mortality as the most significant factors influencing life expectancy worldwide.
+
 - **[Cashew Carbon Credits Platform](https://github.com/TaiVanNgo/yourSDGSolver)**
   - Duration: Jan - 2025
   - Description: As part of our solution for the 24-hour RMIT Hack-A-Venture 2024 hackathon, we developed a blockchain-based platform that empowers cashew farmers to earn income by selling carbon credits. The platform features farmer registration, carbon credit tracking, buyer offset purchases, and secure, verified transactions. Our innovative solution was recognized as the Champion of RMIT Hack-A-Venture 2024 for its impact and sustainability focus.
