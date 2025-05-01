@@ -6,7 +6,7 @@ Hello, my name is Ngo Van Tai, and I'm a 3rd year student at RMIT, majoring in S
 
 ## 🎯 Projects:
 
-- **[Life Expectancy Prediction](https://github.com/TaiVanNgo/life-expectancy-prediction-machine-learning)**
+- **[Life Expectancy Prediction](https://github.com/TaiVanNgo/life-expectancy-prediction)**
   - Duration: April - 2025
   - Description: In this project, I analyzed global life expectancy data (2002-2017) using machine learning techniques. After comprehensive data preprocessing, including outlier treatment and feature selection, I implemented and compared 9 regression models, with Random Forest achieving the best performance (R² of 0.9014).
 
