@@ -13,7 +13,7 @@ Driven by curiosity and a hands-on mindset, I enjoy building smart, efficient so
   - Description: A machine learning-powered solution that classifies rice plant diseases, identifies paddy varieties, and predicts crop age from image data. Trained using 10,000+ annotated images with deep CNN models (Custom Mini-VGG16, EfficientNetB0, ResNet50V2). Integrated into a user-friendly web application to help farmers in real-time diagnostics. The project was developed as part of a group for RMIT’s Machine Learning Assignment and includes EDA, model evaluation, and deployment.
   - Live Demo: [guessyourpaddy.site](http://guessyourpaddy.site/)
 
-- **[NOVA – Prompt Engineering Platform](https://github.com/tutur3u/platform/tree/main/apps/nova)**
+- **[NOVA – Prompt Engineering Platform](https://github.com/tutur3u/platform)**
   - Duration: Feb – June 2025
   - Description: Contributed as a Full-Stack Developer to the **NOVA** application within the Tuturuuu monorepo — a prompt engineering competition platform akin to LeetCode for AI and machine learning tasks. My key responsibilities included:
     - Developing scalable frontend pages using Next.js and Shadcn UI
