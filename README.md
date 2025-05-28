@@ -9,7 +9,7 @@ Driven by curiosity and a hands-on mindset, I enjoy building smart, efficient so
 ## 🎯 Projects
 
 - **[Guess Your Paddy: Intelligent Paddy Plant Diagnosis System](https://github.com/TaiVanNgo/COSC2753-machine-learning-assignment-2)**
-  - Duration: May - 2025
+  - Duration: May 2025
   - Description: A machine learning-powered solution that classifies rice plant diseases, identifies paddy varieties, and predicts crop age from image data. Trained using 10,000+ annotated images with deep CNN models (Custom Mini-VGG16, EfficientNetB0, ResNet50V2). Integrated into a user-friendly web application to help farmers in real-time diagnostics. The project was developed as part of a group for RMIT’s Machine Learning Assignment and includes EDA, model evaluation, and deployment.
   - Live Demo: [guessyourpaddy.site](http://guessyourpaddy.site/)
 
