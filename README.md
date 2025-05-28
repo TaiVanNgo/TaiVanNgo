@@ -1,10 +1,25 @@
 # Ngo Van Tai
 
-# 💫 About Me:
+## 💫 About Me
 
-Hello, my name is Ngo Van Tai, and I'm a 3rd year student at RMIT, majoring in Software Engineering. I am 21 years old and passionate about creating innovative software solutions. <br><br>Despite having less experience, I believe that with my young energy, ambition, laboriousness, and dedicated personality, I will try my best to leverage my academic background and job experience.
+Hello, my name is Ngo Van Tai, and I'm a 3rd year student at RMIT, majoring in Software Engineering. I am 21 years old and passionate about creating innovative software solutions.
 
-## 🎯 Projects:
+Driven by curiosity and a hands-on mindset, I enjoy building smart, efficient solutions that bridge hardware and intelligent software. Whether it's crafting microcontroller-based projects or training machine learning models, I’m always eager to explore new technologies and turn ideas into impact.
+
+## 🎯 Projects
+
+- **[Guess Your Paddy: Intelligent Paddy Plant Diagnosis System](https://github.com/TaiVanNgo/COSC2753-machine-learning-assignment-2)**
+  - Duration: May - 2025
+  - Description: A machine learning-powered solution that classifies rice plant diseases, identifies paddy varieties, and predicts crop age from image data. Trained using 10,000+ annotated images with deep CNN models (Custom Mini-VGG16, EfficientNetB0, ResNet50V2). Integrated into a user-friendly web application to help farmers in real-time diagnostics. The project was developed as part of a group for RMIT’s Machine Learning Assignment and includes EDA, model evaluation, and deployment.
+  - Live Demo: [guessyourpaddy.site](http://guessyourpaddy.site/)
+
+- **[NOVA – Prompt Engineering Platform](https://github.com/tutur3u/platform/tree/main/apps/nova)**
+  - Duration: April – May 2025
+  - Description: Contributed as a Full-Stack Developer to the **NOVA** application within the Tuturuuu monorepo — a prompt engineering competition platform akin to LeetCode for AI and machine learning tasks. My key responsibilities included:
+    - Developing scalable frontend pages using Next.js and Shadcn UI
+    - Implementing RESTful APIs and optimizing backend logic for performance
+    - Translating the entire application to support bilingual (EN-VI) access
+    - Maintaining the admin dashboard for user and content management
 
 - **[Life Expectancy Prediction](https://github.com/TaiVanNgo/life-expectancy-prediction)**
   - Duration: April - 2025
@@ -28,23 +43,20 @@ Hello, my name is Ngo Van Tai, and I'm a 3rd year student at RMIT, majoring in S
 
 - **[CTF writeups](https://github.com/TaiVanNgo/CTF-Write-up)**
 
-  - Duration: 
+  - Duration: September 2024 - Now
   - Description: This my individual project serves as a comprehensive collection of detailed writeups from various Capture the Flag (CTF) competitions I've participated in. It showcases my problem-solving approach and accumulated knowledge in cybersecurity, covering diverse challenges across different domains. This repository is a reflection of my continuous learning and dedication to cybersecurity, designed to both document my progress and share insights with the broader infosec community.
 
 - **[BuZzNet](https://github.com/lluciiiia/COSC2769_Full_Stack_Development_Group_Assignment)**
 
-  - Duration: September - 2024
+  - Duration: September 2024
   - Description: This is my group assignment for the course COSC2769 - Full Stack Development. BuZzNet is the social media website application that helps people connect together.
 
 - **Arduino Project**
-  - Duration: May - 2024
+  - Duration: May 2024
   - Description: For our group assignment in the course EEET2505 - Introduction to Embedded Systems, we developed a system that transmits our first name in Morse code messages by detecting button presses. Using an Arduino Uno and various electrical components, we successfully implemented a method for Morse code transmission.
-  - Video Demo: [Link](https://www.youtube.com/watch?v=jVnXqrdLF7U)
+  - Video Demo: [video](https://www.youtube.com/watch?v=jVnXqrdLF7U)
 
-<!-- - **[Bank Time Application](https://github.com/Kyle8Bits/SED_BankTimeApplication)**
-  - Duration:  -->
-
-## 🌐 Socials:
+## 🌐 Socials
 
 - <p><a href="www.linkedin.com/in/taivanngo" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="15px" /></a> (https://www.linkedin.com/in/taivanngo/)</p>
 - <p><a href="https://www.youtube.com/@taivan130" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/512px-YouTube_icon_%282013-2017%29.png" width="15px" /></a>(https://www.youtube.com/@taivan130)</p>
