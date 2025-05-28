@@ -14,7 +14,7 @@ Driven by curiosity and a hands-on mindset, I enjoy building smart, efficient so
   - Live Demo: [guessyourpaddy.site](http://guessyourpaddy.site/)
 
 - **[NOVA – Prompt Engineering Platform](https://github.com/tutur3u/platform/tree/main/apps/nova)**
-  - Duration: April – May 2025
+  - Duration: Feb – June 2025
   - Description: Contributed as a Full-Stack Developer to the **NOVA** application within the Tuturuuu monorepo — a prompt engineering competition platform akin to LeetCode for AI and machine learning tasks. My key responsibilities included:
     - Developing scalable frontend pages using Next.js and Shadcn UI
     - Implementing RESTful APIs and optimizing backend logic for performance
@@ -22,23 +22,23 @@ Driven by curiosity and a hands-on mindset, I enjoy building smart, efficient so
     - Maintaining the admin dashboard for user and content management
 
 - **[Life Expectancy Prediction](https://github.com/TaiVanNgo/life-expectancy-prediction)**
-  - Duration: April - 2025
+  - Duration: April 2025
   - Description: In this project, I analyzed global life expectancy data (2002-2017) using machine learning techniques. After comprehensive data preprocessing, including outlier treatment and feature selection, I implemented and compared 9 regression models, with Random Forest achieving the best performance (R² of 0.9014).
 
 - **[Cashew Carbon Credits Platform](https://github.com/TaiVanNgo/yourSDGSolver)**
-  - Duration: Jan - 2025
+  - Duration: Jan 2025
   - Description: As part of our solution for the 24-hour RMIT Hack-A-Venture 2024 hackathon, we developed a blockchain-based platform that empowers cashew farmers to earn income by selling carbon credits. The platform features farmer registration, carbon credit tracking, buyer offset purchases, and secure, verified transactions. Our innovative solution was recognized as the Champion of RMIT Hack-A-Venture 2024 for its impact and sustainability focus.
 
 - **[NUC140 Clock Watch](https://github.com/TaiVanNgo/Clock-Watch-NUC140)**
-  - Duration: Dec - 2024
+  - Duration: Dec 2024
   - Description: Built a digital stopwatch system on the NUC140 microcontroller with features like alarm setting, lap time recording, and precise time tracking. The project includes multiple modes (Idle, Alarm Set, Count, Pause, Check), modular FSM-based code, and accurate 1/10-second timing using Timer0 interrupts. A video demo and documentation provide an overview of the design, functionality, and implementation.
   
 - **[Arduino Remote-Controlled Car](https://github.com/TaiVanNgo/remote-controlled-car)**
-  - Duration: Nov - 2024
+  - Duration: Nov 2024
   - Description: Designed and implemented a Bluetooth-controlled car using an Arduino board, the Dabble app, and an L298N motor driver. The car supports directional control (forward, backward, left, and right) through a gamepad interface and includes speed adjustment to correct motor drift. Integrated modular, easy-to-adapt code to enhance user experience and control precision. Demonstrated the project's functionality via a video demo and provided a comprehensive guide with hardware and software resources.
 
 - **[Car Price Prediction](https://github.com/TaiVanNgo/Car-Price-Prediction)**
-  - Duration: Sep - 2024
+  - Duration: Sep 2024
   - Description: Developed an AI-driven model for predicting car prices using a dataset of 19,000+ cars. Implemented comprehensive data preprocessing, feature engineering, and outlier removal. Tested multiple machine learning algorithms, with XGBoost yielding the best performance, achieving improved predictive accuracy.
 
 - **[CTF writeups](https://github.com/TaiVanNgo/CTF-Write-up)**
