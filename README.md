@@ -8,6 +8,16 @@ Driven by curiosity and a hands-on mindset, I enjoy building smart, efficient so
 
 ## 🎯 Projects
 
+- **[PlantOS + The Garden Wars – Bare-Metal Game System](https://github.com/TaiVanNgo/plantos-gardenwars)**
+  - **Duration**: April - May 2025
+  - **Tech**: C (bare-metal), Raspberry Pi, QEMU, UART
+  - **Description**: We built a custom operating system named **PlantOS** from scratch, running on Raspberry Pi with no external OS dependencies. On top of this OS, we developed **The Garden Wars**, a real-time arcade-style tower defense game inspired by *Plants vs. Zombies*. Key features include:
+    - A custom command-line interface with command history, auto-completion, and hardware control (`baudrate`, `handshake`, etc.)
+    - Multimedia capabilities: image rendering, custom fonts, and video playback using RGB frame extraction
+    - Full CLI–GUI integration with UART ACK/NAK communication
+    - A fixed-grid game engine handling waves of zombies, plant mechanics, and real-time keyboard inputs
+  - 🎥 Demo Video: [YouTube – Watch Now](https://youtu.be/r9GJwLXUIRY)
+
 - **[Guess Your Paddy: Intelligent Paddy Plant Diagnosis System](https://github.com/TaiVanNgo/COSC2753-machine-learning-assignment-2)**
   - **Duration**: April - May 2025
   - **Tech**: Python, TensorFlow, Sklearn, Jupyter Notebook
