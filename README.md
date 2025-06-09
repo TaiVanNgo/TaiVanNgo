@@ -8,7 +8,7 @@ Driven by curiosity and a hands-on mindset, I enjoy building smart, efficient so
 
 ## 🎯 Projects
 
-- **[PlantOS + The Garden Wars – Bare-Metal Game System](https://github.com/TaiVanNgo/plantos-gardenwars)**
+- **[PlantOS + The Garden Wars – Bare-Metal Game System](https://github.com/TaiVanNgo/plantos-the-garden-wars)**
   - **Duration**: April - May 2025
   - **Tech**: C (bare-metal), Raspberry Pi, QEMU, UART
   - **Description**: We built a custom operating system named **PlantOS** from scratch, running on Raspberry Pi with no external OS dependencies. On top of this OS, we developed **The Garden Wars**, a real-time arcade-style tower defense game inspired by *Plants vs. Zombies*. Key features include:
