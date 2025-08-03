@@ -8,7 +8,7 @@ Driven by curiosity and a hands-on mindset, I enjoy building smart, efficient so
 
 ## 🎯 Projects
 
-- **[Arduino Quadruped Spider Robot](https://github.com/TaiVanNgo/spider-robot)**
+- **[Quadruped Spider Robot](https://github.com/TaiVanNgo/spider-robot)**
   - **Duration**: April - June 2025
   - **Tech**: C++, Arduino Nano, PCA9685, Bluetooth.
   - **Description**: Led the software development for a four-legged spider robot with dynamic movements controlled wirelessly via a smartphone. Key contributions include designing the control logic for 8 servo motors using a PCA9685 driver, implementing a state machine for various actions (e.g., "happy dance," "defense mode"), and enabling Bluetooth communication with the Dabble mobile app. The project is open-source and features a scalable design for future enhancements.
