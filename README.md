@@ -4,7 +4,7 @@
 
 Hello, my name is Ngo Van Tai, and I'm a 3rd year student at RMIT, majoring in Software Engineering. I am 21 years old and passionate about creating innovative software solutions.
 
-Driven by curiosity and a hands-on mindset, I enjoy building smart, efficient solutions that bridge hardware and intelligent software. Whether it's crafting microcontroller-based projects or training machine learning models, I’m always eager to explore new technologies and turn ideas into impact.
+Driven by curiosity and a hands-on mindset, I thrive on exploring new technologies and turning ideas into tangible impact. Whether it's programming low-level embedded systems or building dynamic, full-stack web applications, I am always eager to learn and build.
 
 ## 🎯 Projects
 
