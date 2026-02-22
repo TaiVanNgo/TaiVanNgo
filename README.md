@@ -8,6 +8,15 @@ Driven by curiosity and a hands-on mindset, I thrive on exploring new technologi
 
 ## 🎯 Projects
 
+- **[NCT Hub – Neo Culture Tech Club Website](https://github.com/rmit-nct/hub)**
+  - **Duration**: Jan 2025 – Present
+  - **Tech**: Next.js, TypeScript, Tailwind CSS, Shadcn UI, Supabase, Turborepo
+  - **Description**: Managing the website and repository for NCT Hub — the official platform for RMIT Neo Culture Tech ([rmitnct.club](https://rmitnct.club)) and the heart of the "Neo Ecosystem," providing free utilities and resources for the student community. Key contributions include:
+    - Overseeing the monorepo, reviewing pull requests, and enforcing code quality and best practices
+    - Defining the architectural direction and maintaining technical standards across the codebase
+    - Coordinating development efforts and managing a scalable Turborepo structure with multiple apps and shared packages
+  - 🌐 Live: [rmitnct.club](https://rmitnct.club)
+
 - **[Quadruped Spider Robot](https://github.com/TaiVanNgo/spider-robot)**
   - **Duration**: April - June 2025
   - **Tech**: C++, Arduino Nano, PCA9685, Bluetooth.
